@@ -2,10 +2,10 @@
 
 Installers for **SchoolMS**, school management software for the Caribbean and Central America.
 
-Download the latest installer from the [Releases](../../releases) page, or visit [rampastor.com](https://rampastor.com) for pricing and setup help.
+Download an installer below, or visit [rampastor.com](https://rampastor.com) for pricing and setup help.
 
-- **Latest:** v2.6.3
-- **Stable:** v2.5
+- **Latest:** [SchoolMS v2.6.3](installers/SchoolMS_Setup_v2.6.3.exe?raw=1)
+- **Stable:** [SchoolMS v2.5](installers/SchoolMS_Setup_v2.5.exe?raw=1)
 - **Requires:** Windows 10 or 11 and a license key to activate
 
 This repository holds installers only.
